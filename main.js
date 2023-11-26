@@ -3,7 +3,6 @@
 
   (function() {
     window.addEventListener('load', function () {
-      alert("It's loaded!")
       var today = new Date();
       if (today.getHours() == 0 && (today.getMinutes() >= 0 && today.getMinutes() <= 20)){
         document.getElementById("glitch").innerHTML = "hint goes here";
