@@ -1,3 +1,3 @@
 function changeText() {
-    document.getElementById("greeting").innerHTML = "Hello, JavaScript!";
+    document.getElementById("greeting").innerHTML = "Super secret message ";
   }
