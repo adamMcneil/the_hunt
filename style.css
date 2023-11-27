@@ -13,7 +13,10 @@ body{
   align-items: center;
   justify-content: center;
   margin: 0;
-  background: #131313;
+  background: url(the_hunt_logo_other.svg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
   color: #fff;
   font-size: 96px;
   font-family: 'tngan', monospace;
